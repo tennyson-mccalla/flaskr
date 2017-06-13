@@ -1,4 +1,5 @@
 flaskr.db
 .eggs/
-bin/
-flaskr.egg-info/
+# bin/
+# flaskr.egg-info/
+lib/
