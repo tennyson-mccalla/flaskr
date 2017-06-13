@@ -1,2 +1,4 @@
 flaskr.db
 .eggs/
+bin/
+flaskr.egg-info/
